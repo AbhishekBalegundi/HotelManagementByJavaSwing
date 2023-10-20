@@ -23,7 +23,7 @@ Add the necessary JAR files to the classpath or include them as dependencies in 
 
 ## Database Configuration
 
-Make sure to set up the MySQL database with the appropriate schema and tables as per the requirements of the application. The database configuration can be found in the `dbconfig.properties` file.
+Make sure to set up the MySQL database with the appropriate schema and tables as per the requirements of the application.
 
 ## Features
 
