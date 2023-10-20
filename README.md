@@ -8,7 +8,7 @@ This is a Hotel Management System implemented using Java Swing and MySQL. The ap
 
 2. Open the project in your preferred Java IDE.
 
-3. Configure the MySQL database connection in the `dbconfig.properties` file.
+3. Configure the MySQL database connection.
 
 4. Run the application from your IDE.
 
